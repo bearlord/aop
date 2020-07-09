@@ -2,7 +2,7 @@
     "name": "bearlord/aop",
     "description": "Aop for ESD-Framework",
     "type": "library",
-    "license": "BSD-3",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "zzq",
