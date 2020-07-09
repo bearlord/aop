@@ -1,0 +1,16 @@
+{
+    "name": "bearlord/aop",
+    "description": "Aop for ESD-Framework",
+    "type": "library",
+    "license": "BSD-3",
+    "authors": [
+        {
+            "name": "zzq",
+            "email": "5656364226@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "goaop/framework": "^2.3",
+    },
+}
