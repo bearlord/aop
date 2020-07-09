@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-          "ESD\\": "src/"
+          "ESD\\Aop": "src/"
         }
     }
 }
