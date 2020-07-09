@@ -12,5 +12,10 @@
     "minimum-stability": "dev",
     "require": {
         "goaop/framework": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {
+          "ESD\\": "src/"
+        }
     }
 }
