@@ -12,5 +12,5 @@
     "minimum-stability": "dev",
     "require": {
         "goaop/framework": "^2.3"
-    },
+    }
 }
