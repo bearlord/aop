@@ -34,7 +34,9 @@ class Aop
         }
         $kernelInstance->init($options);
 
+        /*
         $this->bootStrap($options['cacheDir']);
+        */
     }
 
     /**
